@@ -72,11 +72,7 @@ body {
   color: white;
   outline: 0;
 }
-.form-control input:invalid,
-.form-control input:required {
-  outline: 0;
-  border: 0;
-}
+
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
